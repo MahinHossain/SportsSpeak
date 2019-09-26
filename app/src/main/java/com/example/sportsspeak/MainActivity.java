@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 // ok kisu add korlam
+// ok kisu add korlam
         imgBoxing=findViewById(R.id.imgboxing);
         imgKarate=findViewById(R.id.imgkarate);
         imgJudo=findViewById(R.id.imgjudo);
