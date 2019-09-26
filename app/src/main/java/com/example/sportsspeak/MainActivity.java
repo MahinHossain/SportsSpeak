@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//string
+// ok kisu add korlam
         imgBoxing=findViewById(R.id.imgboxing);
         imgKarate=findViewById(R.id.imgkarate);
         imgJudo=findViewById(R.id.imgjudo);
